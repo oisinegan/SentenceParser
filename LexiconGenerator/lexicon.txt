@@ -1,0 +1,8 @@
+Word - POS - Root - Number
+
+The, DT, The, 0 
+people, NNS, people, 1 
+dislike, VBP, dislike, 1 
+the, DT, the, 0 
+green, JJ, green, 0 
+dog, NN, dog, 0 
